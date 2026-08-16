@@ -1,5 +1,5 @@
 curl 169.254.169.254/latest/meta-data
-curl 169.254.169.254/latest/meta-data/hostname
+curl 169.254.169.254/latest/meta-data/local-hostname
 #this returns the meta data fot the ec2 instance
 # run in the ec2 ssh
 
